@@ -1,7 +1,12 @@
 #include <iostream>
+using namespace std;
+
 
 int main()
 {
-  // TO DO - solve the problem
+  int a,b;
+  cout<<"Adj meg ket szamot:";
+  cin>>a>>b;
+  cout<<"Az osszeguk:"<<a+b<<endl;
   return 0;
 }
